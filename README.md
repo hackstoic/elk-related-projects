@@ -13,3 +13,4 @@ elk是一个成熟的日志监控方案。 它的开源社区很活跃。 正好
 |     4   | esbench   |     Elasticsearch benchmarking tools   |     es 基准测试工具， 非官方， python语言编写   |
 |     5   |  elastalert  |    https://github.com/Yelp/elastalert    |    Yelp开源的es告警工具，为es的数据配置告警规则 ， python语言编写   |
 |     6   |   elasticsearch-lang-python |    https://github.com/elastic/elasticsearch-lang-python    |       python 插件 for es |
+|  7    |    elastic     |     https://github.com/olivere/elastic    |   Elastic是 Elasticsearch 的 Go 语言客户端开发包。      |
